@@ -2,8 +2,8 @@
 
 Latest Patch
 
---------- Armour Changes ---------
-- Royal Dragon Helmet - 
+#--------- Armour Changes ---------
+##- Royal Dragon Helmet - 
     All Protection enchants dropped to 7 except for fire protection (was all 10 before change)
     Aqua Affinity dropped to 3 (was 5 before change)
     Respiration dropped to 3 (was 5 before change)
@@ -12,7 +12,7 @@ Latest Patch
     Generic Armour dropped to 3.5 (was 5 before change)
     Max health dropped to 0.25 (was 0.5 before change)
 
-- Royal Dragon Chestplate/Elytra - 
+##- Royal Dragon Chestplate/Elytra - 
     All Protection enchants dropped to 7 except for fire protection (was all 10 before change)
     Aqua Affinity dropped to 3 (was 5 before change)
     Respiration dropped to 3 (was 5 before change)
