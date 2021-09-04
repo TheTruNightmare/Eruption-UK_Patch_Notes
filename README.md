@@ -1,5 +1,15 @@
 # Latest Eruption-UK Update
 
+**--------- Drop Changes ---------**
+     
+     -Added Soul drops to all related mobs
+      Tweaked soul drop rates massively
+
+     -Added Soul Shard drop to naturally generated spawners
+     
+     -Added Emerald/Emerald Block drop to Villagers
+     
+
 **--------- Trade Changes ---------**
 
      -Added Plagued Chains to Blacksmith
