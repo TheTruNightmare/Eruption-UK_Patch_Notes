@@ -1,5 +1,15 @@
 # Latest Eruption-UK Update
 
+**--------- Trade Changes ---------**
+
+     -Added Plagued Chains to Blacksmith
+     
+     -Added Briny Charm to Shady Merchant
+     
+     -Added Dry Charm to Shady Merchant
+     
+     -Added Soul Shard to Blacksmith
+
 **--------- Gear Changes ---------**
 
 The only set being tweaked this update is the royal dragon set, this is due to it basically driving the galaxy set into redundancy, hopefully with these changes the galaxy set will become a lot more sought after!
