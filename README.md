@@ -3,6 +3,7 @@
 Latest Patch
 
 **--------- Armour Changes ---------**
+
 **- Royal Dragon Helmet -**
     All Protection enchants dropped to 7 except for fire protection (was all 10 before change)
     Aqua Affinity dropped to 3 (was 5 before change)
