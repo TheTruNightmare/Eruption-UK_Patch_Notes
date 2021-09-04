@@ -9,6 +9,10 @@
      
      -Added Emerald/Emerald Block drop to Villagers
      
+     -Removed mob spawner drops from all mobs
+     
+     -Removed End Crystal drop from endermen
+     
 
 **--------- Trade Changes ---------**
 
@@ -19,10 +23,12 @@
      -Added Dry Charm to Shady Merchant
      
      -Added Soul Shard to Blacksmith
+     
+     -Added End Crystal Trade to Shady Merchant
 
 **--------- Gear Changes ---------**
 
-The only set being tweaked this update is the royal dragon set, this is due to it basically driving the galaxy set into redundancy, hopefully with these changes the galaxy set will become a lot more sought after!
+- The only set being tweaked this update is the royal dragon set, this is due to it basically driving the galaxy set into redundancy, hopefully with these changes the galaxy set will become a lot more sought after! -
 
 **- Royal Dragon Helmet -**
      
@@ -179,7 +185,7 @@ The only set being tweaked this update is the royal dragon set, this is due to i
      
 **--------- New Content! (Lost Souls) ---------**
 
-We are pleased to announce the new major update known as the Lost Souls update, with this update we are completely re-writing the way in which you can obtain mob spawners within the game by adding our own soul system in which killing a mob has a set chance to drop a soul of its own type. this can then be combined with soul shards which can either be traded for OR obtained from naturally generated spawners, hopefully this brings a new value to mob spawners and makes them a bit more sought after!
+- We are pleased to announce the new major update known as the Lost Souls update, with this update we are completely re-writing the way in which you can obtain mob spawners within the game by adding our own soul system in which killing a mob has a set chance to drop a soul of its own type. this can then be combined with soul shards which can either be traded for OR obtained from naturally generated spawners, hopefully this brings a new value to mob spawners and makes them a bit more sought after! -
     
 **- Mob Souls -**
      
@@ -243,7 +249,7 @@ We are pleased to announce the new major update known as the Lost Souls update, 
     
 **--------- The long awaited party system! ---------**
 
-Thanks to the efforts from our plugin dev @Fritzz we have now officially got our own party system in place in which you can party with up to 4 other players where as long as      the party damages a mob they will all recieve personal drops (currently unavailable with custom drops) to get more info on this make sure to type /party in the in game chat!
+- Thanks to the efforts from our plugin dev @Fritzz we have now officially got our own party system in place in which you can party with up to 4 other players where as long as      the party damages a mob they will all recieve personal drops (currently unavailable with custom drops) to get more info on this make sure to type /party in the in game chat! -
      
 **--------- Plugin Changes ---------**
     
