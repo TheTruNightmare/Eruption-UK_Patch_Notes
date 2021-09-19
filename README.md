@@ -24,7 +24,7 @@
      
      -Added Soul Shard to Blacksmith
      
-     -Added End Crystal Trade to Shady Merchant
+     -Added End Crystal Trade to Blacksmith
 
 **--------- Gear Changes ---------**
 
