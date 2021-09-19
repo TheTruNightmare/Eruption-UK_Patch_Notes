@@ -249,7 +249,7 @@
     
 **--------- The long awaited party system! ---------**
 
-- Thanks to the efforts from our plugin dev @Fritzz we have now officially got our own party system in place in which you can party with up to 4 other players where as long as      the party damages a mob they will all recieve personal drops (currently unavailable with custom drops) to get more info on this make sure to type /party in the in game chat! -
+- Due to some recently found bugs and the sooner wipe date than originaly planned we have had to hold the plugin back for a short while longer while these bugs get sorted out! please bare with us during this time.-
      
 **--------- Plugin Changes ---------**
     
@@ -259,4 +259,4 @@
 
      -Added Oraxen (for future use)
 
-     -Added Eruption Parties!
+    
